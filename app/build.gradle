@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace 'com.shante.restaurantapp'
+    namespace 'com.shante.ecomerceshopapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.shante.restaurantapp"
+        applicationId "com.shante.ecomerceshopapp"
         minSdk 23
         targetSdk 33
         versionCode 1

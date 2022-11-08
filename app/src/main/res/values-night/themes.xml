@@ -13,4 +13,17 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.EcomerceShopApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="BottomNavigationBar">
+        <item name="android:background">@drawable/shaped_rectangle_bg_edit_text</item>
+        <item name="itemBackground">@drawable/shaped_rectangle_bg_edit_text</item>
+        <item name="itemIconTint">@color/bottom_icon_tint_selector</item>
+    </style>
+
 </resources>

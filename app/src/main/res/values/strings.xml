@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">EcomerceShopApp</string>
+
+    <!--Tools-->
+    <string name="favourite_fragment">Favourite Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="my_cart_fragment">My Cart Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+
+    <!-- Bottom navigation bar -->
+    <string name="explorer">Explorer</string>
+
+
 </resources>
